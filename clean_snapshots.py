@@ -8,8 +8,6 @@ first param - day number
 params in between - tags "Tag_name=Tag_value"
 last param - "-p" print found snapshots   OR  "-delete" delete found snapshots 
 
-for ex. "./clean_snapshots.py 7 Name=front.db-system Period=daily -delete"
-
 key file format AKIAIXXXXXXXXXXXXXXX:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 '''
